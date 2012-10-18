@@ -1,0 +1,14 @@
+lxml
+pyPdf
+reportlab
+setuptools
+zope.interface
+zope.schema
+
+[test]
+zope.pagetemplate
+zope.testing
+PIL
+
+[pagetemplate]
+zope.pagetemplate

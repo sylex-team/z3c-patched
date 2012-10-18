@@ -1,0 +1,4 @@
+[console_scripts]
+reference = z3c.rml.reference:main
+dtd = z3c.rml.dtd:main
+
